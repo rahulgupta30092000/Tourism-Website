@@ -20,6 +20,12 @@ nav{
 .upper_navbar{
 	background-color: #112255; 
 }
+nav{
+	width: 50%;
+	height: auto;
+	color: #fff;
+	z-index: 800;
+}
 .menu1{
 	width: 90%;
 	margin: 0 auto;
